@@ -1,0 +1,35 @@
+Initialize engine version: 4.5.3f3 (fca41a4fabea)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 7520G (ID=0x9990)
+    Vendor:   ATI
+    VRAM:     481 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\lxl\Dropbox\Proyecto\Game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\lxl\Dropbox\Proyecto\Game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\lxl\Dropbox\Proyecto\Game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\lxl\Dropbox\Proyecto\Game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.065 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+UnloadTime: 0.424795 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 188.
+Total: 0.791836 ms (FindLiveObjects: 0.018238 ms CreateObjectMapping: 0.011778 ms MarkObjects: 0.096889 ms  DeleteObjects: 0.011398 ms)
+
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' - Pass '' shader state not supported
+UnloadTime: 0.500787 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 377.
+Total: 1.476145 ms (FindLiveObjects: 0.029256 ms CreateObjectMapping: 0.016718 ms MarkObjects: 0.139825 ms  DeleteObjects: 0.374260 ms)
+
+UnloadTime: 1.330240 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 56 unused Assets to reduce memory usage. Loaded Objects now: 118.
+Total: 2.538133 ms (FindLiveObjects: 0.007219 ms CreateObjectMapping: 0.012538 ms MarkObjects: 0.072572 ms  DeleteObjects: 1.578354 ms)
+
